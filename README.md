@@ -59,3 +59,11 @@ Se agradece cualquier contribución al proyecto. Si desea colaborar, siga los si
 - Cree una rama para su nueva funcionalidad o corrección de errores.
 - Realice los cambios necesarios y documente apropiadamente.
 - Envíe una pull request para revisar los cambios propuestos.
+
+## Contacto
+- LinkedIn: https://www.linkedin.com/in/juan-jos%C3%A9-ar%C3%A9valo-camargo/
+- Gmail: juanjoarevalo57@gmail.com
+- Portfolio: https://juanjoarevalo57.wixsite.com/juan-ar-valo
+- Schedule a meeting🎯: https://calendly.com/juanjoarevalo57/entrevista-laboral?month=2023-06
+- Discord: .juanarevalo
+- Kaggle: https://www.kaggle.com/juanarvalo
