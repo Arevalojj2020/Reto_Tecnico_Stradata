@@ -1,0 +1,6 @@
+Cluster,Descripcion
+0,Empleado con acciones y bajos ingresos
+1,Empleado sin acciones y bajos ingresos
+2,Empleado sin acciones y altos ingresos
+3,Empleado con acciones y altos ingresos
+4,Rentista de capital sin acciones y bajos ingresos
